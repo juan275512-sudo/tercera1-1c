@@ -1,0 +1,53 @@
+*{
+    margin: 0; 
+    padding: 0; 
+    
+}
+menu {
+    height: 150px; /* altura del menu */
+    background-color: #5849de; /*se usa para asignar color*/
+    display:flex; /*se usa para organizar los elementos del menu*/
+    flex-direction: row; /*se usa para organizar los elementos del menu en fila*/
+}
+.menu-izquierda {
+    width: 25%; /*se usa para asignar el ancho del menu*/
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;/*se usa para centrar el contenido del menu*/
+    color:white; /*se usa para asignar el color del texto del menu*/
+    
+}
+.menu-izquierda img {
+    width: 300px; /*se usa para asignar el ancho de la imagen del logo*/
+    height: auto; /*se usa para mantener la proporción de la imagen del logo*/
+}
+.menu-derecha {
+    width: 75%;
+    background-color: #344edd;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: right;/*se usa para centrar o mover el contenido del menu*/
+    padding-right: 50px; /*se usa para asignar un espacio a la derecha del menu*/
+    
+
+}
+.menu-derecha a {
+
+    color: white; /*se usa para asignar el color del texto del menu*/
+    text-decoration: none; /*se usa para eliminar el subrayado del texto del menu*/
+    margin-left: 10px; /*se usa para asignar un espacio entre los enlaces del menu*/
+    font-size: 18px; /*se usa para asignar el tamaño del texto del menu*/
+    padding-left: 10px; /*se usa para asignar un espacio a la izquierda del menu en este caso se daria para dar espacio entre los menus de seleccion*/
+
+}
+
+menu a:hover {
+    background-color: #d51818; /*se usa para asignar un color de fondo al pasar el mouse por encima de los enlaces del menu*/
+    color: rgb(51, 187, 17); /*se usa para asignar el color del texto al pasar el mouse por encima de los enlaces del menu*/
+    padding: 5px; /*se usa para asignar un espacio entre los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
+    border-radius: 5px; /*se usa para asignar un borde redondeado a los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
+    scale:1.2; /*se usa para asignar un tamaño al pasar el mouse por encima de los enlaces del menu*/
+}
