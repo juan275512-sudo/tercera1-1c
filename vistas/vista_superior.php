@@ -12,7 +12,7 @@
                 <div class="menu-izquierda">
                 
                     <img src="./img/logo compuJ.png" alt="Logo">    
-                    <h1>CompuJ</h1>
+                    
                    
                 </div>
                 <div class="menu-derecha">
