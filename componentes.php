@@ -1,7 +1,7 @@
 <?php require_once "./vistas/vista_superior.php"?>
 
 
-2
+<h1>Componentes</h1>
 
 
 <?php require_once "./vistas/vista_inferior.php"?>

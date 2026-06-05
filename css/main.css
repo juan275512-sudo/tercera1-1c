@@ -45,9 +45,9 @@ menu {
 }
 
 menu a:hover {
-    background-color: #d51818; /*se usa para asignar un color de fondo al pasar el mouse por encima de los enlaces del menu*/
+   /* background-color: #d51818; /*se usa para asignar un color de fondo al pasar el mouse por encima de los enlaces del menu*/
     color: rgb(51, 187, 17); /*se usa para asignar el color del texto al pasar el mouse por encima de los enlaces del menu*/
-    padding: 5px; /*se usa para asignar un espacio entre los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
-    border-radius: 5px; /*se usa para asignar un borde redondeado a los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
+   /* padding: 5px; /*se usa para asignar un espacio entre los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
+    /*border-radius: 5px; /*se usa para asignar un borde redondeado a los enlaces del menu al pasar el mouse por encima de los enlaces del menu*/
     scale:1.2; /*se usa para asignar un tamaño al pasar el mouse por encima de los enlaces del menu*/
 }

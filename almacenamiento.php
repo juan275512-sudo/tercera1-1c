@@ -1,6 +1,6 @@
 <?php require_once "./vistas/vista_superior.php"?>
 
-1
+<h1>Almacenamiento</h1>
 
 
 

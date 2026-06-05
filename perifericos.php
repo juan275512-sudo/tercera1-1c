@@ -2,6 +2,6 @@
 
 
 
-4
+<h1>Perifericos</h1>
 
 <?php require_once "./vistas/vista_inferior.php"?>

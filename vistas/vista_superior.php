@@ -10,8 +10,9 @@
         <header>
             <menu>
                 <div class="menu-izquierda">
-                
-                    <img src="./img/logo compuJ.png" alt="Logo">    
+                    <a href="index.php">
+                    <img src="./img/logo compuJ.png" alt="Logo">
+                    </a>   
                     
                    
                 </div>
