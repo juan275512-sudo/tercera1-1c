@@ -118,8 +118,9 @@ menu a:hover {
 
     }
     .menu-derecha-open a {
-        margin: 10px 0; /*se usa para asignar un espacio entre los enlaces del menu en dispositivos con pantallas pequeñas*/
+        margin: 5px; /*se usa para asignar un espacio entre los enlaces del menu en dispositivos con pantallas pequeñas*/
         font-size: 20px; /*se usa para asignar un tamaño al texto del menu en dispositivos con pantallas pequeñas*/
+        
     }
 
 }
