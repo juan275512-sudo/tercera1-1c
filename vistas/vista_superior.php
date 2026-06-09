@@ -17,14 +17,21 @@
                    
                 </div>
                 <div class="menu-derecha">
-                 <a href="index.php">Inicio</a>
-                <a href="perifericos.php">Perifericos</a>
-                <a href="componentes.php">Componentes</a>
-                <a href="almacenamiento.php">SSD,HDD,Almacenamiento</a>
-                <a href="Tgraficas.php">Tarjetas Graficas</a>
-                <a href="monitores.php">Monitores</a>
+                    <a href="index.php">Inicio</a>
+                    <a href="perifericos.php">Perifericos</a>
+                    <a href="componentes.php">Componentes</a>
+                    <a href="almacenamiento.php">SSD,HDD,Almacenamiento</a>
+                    <a href="Tgraficas.php">Tarjetas Graficas</a>
+                    <a href="monitores.php">Monitores</a>
                 </div>
 
+                <div class="menu-container">
+                    <div class="hamburger-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
             </menu>
             
         </header>
