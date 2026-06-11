@@ -52,6 +52,87 @@ menu a:hover {
     scale:1.2; /*se usa para asignar un tamaño al pasar el mouse por encima de los enlaces del menu*/
 }
 
+.card-list{
+
+background-color: rgb(239, 243, 244);
+width: 100%;
+height: auto;
+display: flex; 
+flex-direction: row;
+flex-wrap: wrap; /*se usa para organizar los elementos de la lista de tarjetas en varias filas*/
+align-items: center;
+justify-content: space-around; /*se usa para centrar el contenido de la lista de tarjetas*/
+padding: 30px 0 30px 0;
+
+
+}
+.card-item {
+    width: 27%; /*se usa para asignar un ancho a cada tarjeta*/
+    border: solid 2px black; /*se usa para asignar un borde a cada tarjeta*/
+    margin-bottom: 20px;
+    border-radius: 15px; /*se usa para asignar un borde redondeado a cada tarjeta*/
+    overflow: hidden; /*se usa para ocultar el contenido que se desborda de cada tarjeta*/
+
+}
+
+.card-item img {
+    width: 100%; /*se usa para asignar un ancho a la imagen de cada tarjeta*/
+    /
+}
+.card-item:hover {
+    transform: scale(1.05);
+}
+
+.card-info {
+    width: 100%; /*se usa para asignar un ancho a la información de cada tarjeta*/
+    height: auto;
+    display: flex;
+    flex-direction: column;
+   
+
+}
+
+.card-title{
+
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0 10px 10px;
+
+}
+.card-desc{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0 10px 10px 10px;
+
+}
+.boton-cta{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding: 0 10px 10px 0;
+
+}
+.card-cta{
+    background-color: #203bd8;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0 0 10px; /*ariba,derecha,abajo izquierda*/
+    color:white;
+    text-decoration: none;
+    border:solid 2px black;
+    border-radius: 10px;
+
+}
+.card-cta:hover{
+    transform: scale(1.05); /*puede dar forma o como de que resalte al pasar el cursor o de que se encoja con 0.95 ejemplo*/
+
+
+}
+
+
 @media (max-width: 768px) {
     menu {
         background-color: black;
@@ -122,5 +203,14 @@ menu a:hover {
         font-size: 20px; /*se usa para asignar un tamaño al texto del menu en dispositivos con pantallas pequeñas*/
         
     }
+
+    .card-item{
+        width: 90%;
+
+
+    }
+    
+
+
 
 }
