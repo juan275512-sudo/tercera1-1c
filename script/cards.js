@@ -1,25 +1,25 @@
 console.log('Cards cargado correctamente');
 
 const dataCards = [{
-  "title": "Juega solo o con amigos",
-  "url_image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/11/15/18/league-of-legends.jpg?w968h681",
-  "desc": "No es necesario ser parte de un equipo, aunque no está de más un poco de ayuda.",
+  "title": "tarjetas grafica nvidia",
+  "url_image": "https://www.nvidia.com/content/nvidiaGDC/es/es_ES/geforce/graphics-cards/_jcr_content/root/responsivegrid/nv_container_1965276325/nv_teaser.coreimg.100.630.jpeg/1735897389094/geforce-rtx-50series-nv-sfg-thumbnail-1920x1080.jpeg",
+  "desc": "La plataforma definitiva para jugadores y creadores.",
   "cta": "Mostrar más",
-  "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
+  "link": "https://www.nvidia.com/es-es/geforce/graphics-cards/"
 },
 {
-  "title": "Diferentes modos de juego",
-  "url_image": "https://dotesports-media.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/sites/4/2019/06/20165237/tft1.png",
-  "desc": "Modo Clásico, Dominion, Snowdown y otros modos de juego, todo depende de tu tipo de estretegia y tus mejores habilidades.",
+  "title": "Almacenamiento en unidades HDD y SSD",
+  "url_image": "https://www.westerndigital.com/es-la/products/internal-drives/wd-red-pro-sata-hdd",
+  "desc": "Elegir el almacenamiento adecuado es una de las decisiones más importantes que debe tomar en relación con sus dispositivos, sus flujos de trabajo y su presupuesto. Las unidades SSD ofrecen una capacidad de respuesta increíble para los sistemas operativos y los proyectos en curso, mientras que los discos HDD tienen una capacidad escalable que permite almacenar años de fotos, videos, copias de seguridad, cargas de trabajo y archivos sin salirse del presupuesto.",
   "cta": "Mostrar más",
-  "link": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipq6zInbblAhUInFkKHSYwCMkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwhen-a-passion-for-videogames-helps-land-that-job-11551888001&psig=AOvVaw2cvigcMN-U27d5xC22PpZw&ust=1572050615969380"
+  "link": "https://www.westerndigital.com/es-la/solutions/hdd-vs-ssd"
 },
 {
-  "title": "Participa en las eliminatorias regionales",
-  "url_image": "https://d392eissrffsyf.cloudfront.net/LAN/Worlds%202015/CuartosDeFinal.jpg",
-  "desc": "Escala desde abajo, no es necesario enfrentarse a los mejores desde el promcipio, pero si debes ser el mejor para poder clasificar.",
+  "title": "periféricos",
+  "url_image": "https://www.adntienda.com/lanzamientos",
+  "desc": "En computación, un periférico es un dispositivo independiente, conectado externa o internamente a la tarjeta madre, que permite al sistema informático realizar una función extra. Como tal, no forma parte del proceso central de una computadora, sino que sirve a nivel de complemento para aumentar sus capacidades funcionales.",
   "cta": "Mostrar más",
-  "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
+  "link": "https://www.adntienda.com/shop/category/pc-gamer-perifericos-8385"
 },
 {
   "title": "Personaliza tus campeones favoritos con skins",
