@@ -1,20 +1,17 @@
 console.log('Cargando Accordion...');
 const dataAccordion = [{
-  "title": "¿Qué son los Deportes Electrónicos?",
-  "desc": "Son deportes electrónicos, que se pueden practicar desde una PC o Consola de Videojuegos."
+  "title": "¿Qué son los componentes de hardware?",
+  "desc": "Los componentes de hardware son todas las partes físicas y tangibles de un sistema informático o dispositivo electrónico. Es decir, cualquier elemento que se pueda ver y tocar, desde los circuitos internos hasta los periféricos externos."
 },
 {
-  "title": "¿Qué se necesita para formar parte de un equipo de E-Sports?",
-  "desc": "Se necesita una PC o una Consola, además de mucha dedicación y esfuerzo."
+  "title": "¿Qué se necesita para armar una computadora de escritorio?",
+  "desc": "Procesador (CPU), Placa Base (Motherboard), Memoria RAM, Almacenamiento (SSD) o (hdd), Tarjeta Gráfica (GPU), Fuente de Alimentación (PSU),Refrigeración (Disipador), Caja (Gabinete / Case), ademas de perifericos extras ."
 },
 {
-  "title": "¿Son los E-Sports reconocidos como un deporte real?",
-  "desc": "El debate sobre si son deporte siempre genera polémica, pero los expertos lo tienen claro, lo son. Gobiernos como el estadounidense o el alemán reconocen a los jugadores profesionales de videojuegos como atletas y el Comité Olímpico Coreano ha concedido el rango de deporte olímpico a los esports."
+  "title": "¿Cuales son esos perifericos extras que se necesitan ?",
+  "desc": "Monitor, teclado y ratón para interactuar con el equipo, además de algún sistema de sonido."
 },
-{
-  "title": "¿Desde cuándo existen los E-Sports?",
-  "desc": "Los esports existen desde hace tiempo, pero es en la actualidad cuando están viviendo su mejor momento en términos de notoriedad, inversión y seguidores, gracias también a la expansión de internet y las nuevas tecnologías y plataformas. Lo que en un principio eran torneos minoritarios o locales, en los últimos tiempos se ha convertido en un fenómeno en el que no solo los jugadores profesionales están implicados, sino también los millones de fans de los videojuegos y la competición que lo siguen desde sus casas o llenan estadios de todo el mundo, desde Seúl hasta Berlín, pasando por Nueva York o Madrid."
-}];
+];
 
 
 (function () {
