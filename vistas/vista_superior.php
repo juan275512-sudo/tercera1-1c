@@ -7,6 +7,7 @@
         <title>Mi Aplicación</title>
     </head>
     <body>
+        
         <header>
             <menu>
                 <div class="menu-izquierda">
@@ -23,6 +24,8 @@
                     <a href="almacenamiento.php">SSD,HDD,Almacenamiento</a>
                     <a href="Tgraficas.php">Tarjetas Graficas</a>
                     <a href="monitores.php">Monitores</a>
+                    <a href="laptops.php">laptops</a>
+                    
                 </div>
 
                 <div class="menu-container">

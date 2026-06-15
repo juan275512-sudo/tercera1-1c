@@ -1,7 +1,7 @@
 <?php require_once "./vistas/vista_superior.php"?>
-<div class = "main-accordion-container"></div>
-<div class = "card-list"></div>
 
+
+<h1>Laptops</h1>
 
 
 <?php require_once "./vistas/vista_inferior.php"?>

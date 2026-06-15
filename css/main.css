@@ -3,13 +3,7 @@
     padding: 0; 
     
 }
-body{
-    background-image:url(https://www.stormshield.com/wp-content/uploads/shutterstock-1363462781-1024x536.jpg) ;/*ruta de una imagen*/
-    background-repeat: no-repeat;/*evita que la imagen se repita*/
-    background-size: cover; /* ajusta la imagen para cubrir toda la pantalla */
-    background-position: center; /*centra la imagen*/
-    background-attachment: fixed; /*la imagen se queda fija al hacer scroll*/
-}
+
 menu {
     height: 150px; /* altura del menu */
     background-color: #5849de; /*se usa para asignar color*/
@@ -61,7 +55,7 @@ menu a:hover {
 
 .card-list{
 
-background-color: white;
+background-image: url(https://img.freepik.com/fotos-premium/digital-technology-futuristic-banner-with-circuit-lines_327072-24632.jpg);
 width: 100%;
 height: auto;
 display: flex; 
@@ -74,6 +68,7 @@ padding: 30px 0 30px 0;
 
 }
 .card-item {
+    background-color: #f9f9f9;
     width: 27%; /*se usa para asignar un ancho a cada tarjeta*/
     border: solid 2px black; /*se usa para asignar un borde a cada tarjeta*/
     margin-bottom: 20px;
@@ -83,7 +78,7 @@ padding: 30px 0 30px 0;
 }
 
 .card-item img {
-    width: 1000%; /*se usa para asignar un ancho a la imagen de cada tarjeta*/
+    width: 100%; /*se usa para asignar un ancho a la imagen de cada tarjeta*/
     
 }
 .card-item:hover {
@@ -140,6 +135,7 @@ padding: 30px 0 30px 0;
 }
 /* Estado normal del acordeón */
 .accordion-item {
+    padding-top: 10px;
   border: 1px solid #ccc;
   margin-bottom: 8px;
   border-radius: 4px;
@@ -158,6 +154,7 @@ padding: 30px 0 30px 0;
 
 .accordion-title:hover {
   background: #2980b9;
+  transform: scale(0.95);
 }
 
 /* Contenido oculto por defecto */
