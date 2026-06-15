@@ -9,39 +9,32 @@ const dataCards = [{
 },
 {
   "title": "Almacenamiento en unidades HDD y SSD",
-  "url_image": "https://www.westerndigital.com/es-la/products/internal-drives/wd-red-pro-sata-hdd",
+  "url_image": "https://www.westerndigital.com/content/dam/store/en-us/assets/solutions/hdd-vs-ssd/wd-hdd-vs-ssd-blue.png.wdthumb.1280.1280.webp",
   "desc": "Elegir el almacenamiento adecuado es una de las decisiones más importantes que debe tomar en relación con sus dispositivos, sus flujos de trabajo y su presupuesto. Las unidades SSD ofrecen una capacidad de respuesta increíble para los sistemas operativos y los proyectos en curso, mientras que los discos HDD tienen una capacidad escalable que permite almacenar años de fotos, videos, copias de seguridad, cargas de trabajo y archivos sin salirse del presupuesto.",
   "cta": "Mostrar más",
   "link": "https://www.westerndigital.com/es-la/solutions/hdd-vs-ssd"
 },
 {
   "title": "periféricos",
-  "url_image": "https://www.adntienda.com/lanzamientos",
+  "url_image": "https://www.lifeder.com/wp-content/uploads/2022/01/perifericos-de-almacenamiento-696x463.jpg",
   "desc": "En computación, un periférico es un dispositivo independiente, conectado externa o internamente a la tarjeta madre, que permite al sistema informático realizar una función extra. Como tal, no forma parte del proceso central de una computadora, sino que sirve a nivel de complemento para aumentar sus capacidades funcionales.",
   "cta": "Mostrar más",
-  "link": "https://www.adntienda.com/shop/category/pc-gamer-perifericos-8385"
+  "link": "https://www.lifeder.com/perifericos-almacenamiento/"
 },
 {
-  "title": "Personaliza tus campeones favoritos con skins",
-  "url_image": "https://miro.medium.com/v2/resize:fit:1400/1*myfZd0fORBarQOlZKXCHoQ.png",
-  "desc": "Ser un campeón tiene sus beneficios, escoge y presume tus skins personalizados!",
+  "title": "Componentes de computadora",
+  "url_image": "https://img.pccomponentes.com/pcblog/6505/componentes-ordenador.jpg",
+  "desc": "Los componentes de una PC son las piezas físicas de hardware que funcionan en conjunto para procesar y mostrar información.",
   "cta": "Mostrar más",
   "link": "https://www.edsurge.com/news/2019-01-22-educators-share-how-video-games-can-help-kids-build-sel-skills"
 },
 {
-  "title": "Posicionate en los Ranking de la temporada",
-  "url_image": "https://bolavip.com/export/sites/bolavip/img/2019/01/23/image_2.png_1056961943.png",
-  "desc": "Más y más reconocimientos, si tú o tu equipo se convierte en los mejores, todos lo sabrán!",
+  "title": "Monitores",
+  "url_image": "https://xiaomistore.co.cr/wp-content/uploads/Xiaomi20Mi20Monitor20A22i2022-300x300.webp",
+  "desc": "En informática, un monitor, es el principal dispositivo de salida (interfaz), que muestra datos o información a todos los usuarios. También puede considerarse un periférico de entrada/salida si el monitor contiene pantalla táctil o multitáctil.",
   "cta": "Mostrar más",
-  "link": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwipq6zInbblAhUInFkKHSYwCMkQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fwhen-a-passion-for-videogames-helps-land-that-job-11551888001&psig=AOvVaw2cvigcMN-U27d5xC22PpZw&ust=1572050615969380"
+  "link": "https://es.wikipedia.org/wiki/Monitor_de_computadora"
 },
-{
-  "title": "Prueba la beta de TFT",
-  "url_image": "https://newsbytes.ph/wp-content/uploads/2026/03/gameplay.jpg",
-  "desc": "¡Pase beta de TFT V.3 próximamente!",
-  "cta": "Mostrar más",
-  "link": "https://las.leagueoflegends.com/es/news/game-updates/features/pase-beta-de-tft-v3-proximamente"
-}
 ];
 
 (function () {

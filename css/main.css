@@ -3,6 +3,13 @@
     padding: 0; 
     
 }
+body{
+    background-image:url(https://www.stormshield.com/wp-content/uploads/shutterstock-1363462781-1024x536.jpg) ;/*ruta de una imagen*/
+    background-repeat: no-repeat;/*evita que la imagen se repita*/
+    background-size: cover; /* ajusta la imagen para cubrir toda la pantalla */
+    background-position: center; /*centra la imagen*/
+    background-attachment: fixed; /*la imagen se queda fija al hacer scroll*/
+}
 menu {
     height: 150px; /* altura del menu */
     background-color: #5849de; /*se usa para asignar color*/
@@ -54,7 +61,7 @@ menu a:hover {
 
 .card-list{
 
-background-color: rgb(239, 243, 244);
+background-color: white;
 width: 100%;
 height: auto;
 display: flex; 
@@ -76,8 +83,8 @@ padding: 30px 0 30px 0;
 }
 
 .card-item img {
-    width: 100%; /*se usa para asignar un ancho a la imagen de cada tarjeta*/
-    /
+    width: 1000%; /*se usa para asignar un ancho a la imagen de cada tarjeta*/
+    
 }
 .card-item:hover {
     transform: scale(1.05);
