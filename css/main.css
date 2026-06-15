@@ -68,7 +68,7 @@ padding: 30px 0 30px 0;
 
 }
 .card-item {
-    background-color: #f9f9f9;
+    background-color: #dfcfcfc1;
     width: 27%; /*se usa para asignar un ancho a cada tarjeta*/
     border: solid 2px black; /*se usa para asignar un borde a cada tarjeta*/
     margin-bottom: 20px;
@@ -172,7 +172,7 @@ padding: 30px 0 30px 0;
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 912px) {
     menu {
         background-color: black;
         height: 200px; /*se usa para asignar una altura al menu en dispositivos con pantallas pequeñas*/

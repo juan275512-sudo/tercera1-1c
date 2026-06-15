@@ -37,7 +37,7 @@ const dataCards = [{
 },
 {
   "title": "Laptops",
-  "url_image": "https://cyberteamcr.com/wp-content/uploads/2026/05/grid2.2-1-300x300.webp",
+  "url_image": "https://igamingcr.com/wp-content/uploads/2026/04/9S7-15K111-272-300x300.jpg",
   "desc": "Una laptop (o computadora portátil) es un equipo informático personal diseñado para ser transportado y utilizado en movimiento. Integra todos los componentes esenciales en una sola estructura compacta—pantalla, teclado, panel táctil, batería y unidad de procesamiento—, brindando portabilidad sin sacrificar la funcionalidad de un equipo de escritorio.",
   "cta": "Mostrar más",
   "link": "https://cyberteamcr.com/product-category/laptops/"
